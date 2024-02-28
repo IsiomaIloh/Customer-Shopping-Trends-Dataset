@@ -1,0 +1,73 @@
+﻿PROJECT TASKS
+
+
+This dataset encompasses various features related to customer shopping preferences, gathering essential information for businesses seeking to enhance their understanding of their customer base. The features include customer age, gender, purchase amount, preferred payment methods, frequency of purchases, and feedback ratings. Additionally, data on the type of items purchased, shopping frequency, preferred shopping seasons, and interactions with promotional offers is included. With a collection of 3900 records, this dataset serves as a foundation for businesses looking to apply data-driven insights for better decision-making and customer-centric strategies.
+
+
+Column Information:
+Customer ID - Unique identifier for each customer
+Age - The age of the customer
+Gender - Gender of the customer (Male/Female)
+Item Purchased - The item purchased by the customer
+Category - Category of the item purchased
+Purchase Amount (USD) - The amount of the purchase in USD
+Location - The location where the purchase was made
+Size - Size of the purchased item
+Color - The color of the purchased item
+Season - Season during which the purchase was made
+Review Rating - Rating given by the customer for the purchased item
+Subscription Status - Indicates if the customer has a subscription (Yes/No)
+Shipping Type - The type of shipping chosen by the customer
+Discount Applied - Indicates if a discount was applied to the purchase (Yes/No)
+Promo Code Used - Indicates if a promo code was used for the purchase (Yes/No)
+Previous Purchases - The total count of transactions concluded by the customer at the store, excluding the ongoing transaction
+Payment Method - Customer's most preferred payment method
+Frequency of Purchases - Frequency at which the customer makes purchases (e.g., Weekly, Fortnightly, Monthly)
+
+
+
+
+Analysis:
+
+
+1. Demographic Analysis:
+   - What is the distribution of customers by age and gender?
+   - How does age and gender correlate with the purchase amount?
+   - Are there any differences in shopping behavior between male and female customers?
+
+
+2. Product Analysis:
+   - Which items are the most frequently purchased?
+   - What are the most popular categories of items?
+   - Is there a correlation between item size/color and purchase amount?
+   - Do certain seasons affect the types of items purchased?
+
+
+3. Customer Behavior:
+   - How does the purchase amount vary based on the review rating?
+   - Do customers with subscriptions tend to spend more than non-subscribers?
+   - Is there a relationship between the frequency of purchases and the total amount spent?
+
+
+4. Sales and Marketing Effectiveness:
+   - How many customers use promo codes, and does this impact their purchase behavior?
+   - What percentage of customers take advantage of discounts?
+   - Are there any trends in the use of different shipping types based on location or item category?
+
+
+5. Payment Analysis:
+   - What are the most preferred payment methods among customers?
+   - Is there a correlation between payment method and purchase amount?
+
+
+6. Customer Loyalty:
+   - How does the number of previous purchases correlate with the purchase amount?
+   - Are there any patterns in the frequency of purchases among loyal customers?
+
+
+7. Location Analysis:
+   - Which locations have the highest and lowest purchase amounts?
+   - Do certain locations prefer specific categories of items?
+
+
+These questions should provide a starting point for analyzing your dataset and uncovering insights about customer behavior, preferences, and trends. You can further refine and expand these questions based on the specific goals of your analysis and the insights you aim to derive from the data.
