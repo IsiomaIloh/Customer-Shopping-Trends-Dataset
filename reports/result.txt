@@ -1,0 +1,73 @@
+1. DEMOGRAPHIC ANALYSIS RESULTS:
+
+B. Using the Pearson correlation coefficient to measure the linear relationship between 'Age' and 'Purchase Amount (USD)'
+
+First, it is good to note that the Pearson correlation coefficient measures the linear relationship between two quantitative variables.
+It ranges from -1 to 1:
+
+- 1 indicates a perfect positive linear relationship: As one variable increases, the other variable also increases proportionally.
+- -1 indicates a perfect negative linear relationship: As one variable increases, the other variable decreases proportionally.
+- 0 indicates no linear relationship between the variables.
+
+In this case, the Pearson correlation coefficient between Age and APurchase Amount (USD) is approximately -0.0104,
+this indicates a very weak negative linear relationship between the 'Age' and 'Purchase Amount (USD)' variables.
+This means that there is a slight tendency for the purchase amount to decrease slightly as age increases,
+but the relationship is extremely weak.
+
+It's important to note that correlation does not imply causation.
+Even though there may be a correlation between age and purchase amount,
+it does not necessarily mean that age directly influences purchase amount.
+Other factors may also play a role, and further analysis would be needed to
+understand the underlying reasons for the observed relationship.
+
+C. Using a T_Statistic test to measure the relationship between 'Age' and 'Purchase Amount (USD)'
+The T_Statistic test is used to determine if there is a significant difference between the means of two groups.
+The T-Statistics calculated is -0.877, which suggests that the difference between the  means of the Purchasing Amount(USD)
+for Male and Female customers is relatively small. The negative sign indicates that an average male customer may have slightly
+lower purchase amount than female customers.
+
+This is further supported by the p-value of 0.381, which indicates that there is a 38.1% chance of observing such a difference in
+purchase amount between male and female customers due to random chance alone. This is higher than the commonly used significance level of 0.05.
+Therefore, based on the t-test results, we do not find strong evidence to suggest a significant difference in purchase amounts between male and female customers
+
+2. PRODUCT ANALYSIS RESULTS:
+The top 10 most purchased items are:
+Blouse        171
+Jewelry       171
+Pants         171
+Shirt         169
+Dress         166
+Sweater       164
+Jacket        163
+Belt          161
+Sunglasses    161
+Coat          161
+
+Top Categories of items purchased by customers:
+Clothing       1737
+Accessories    1240
+Footwear        599
+Outerwear       324
+
+Average Purchase Amount (USD) for each category
+Footwear       60.255426
+Clothing       60.025331
+Accessories    59.838710
+Outerwear      57.172840
+
+Group data by season and item category
+Seasonal category count: Category
+Season         Accessories  Clothing  Footwear   Outerwear
+Fall              324       427       136         88
+Spring            301       454       163         81
+Summer            312       408       160         75
+Winter            303       448       140         80
+
+
+3. CUSTOMER ANALYSIS RESULTS:
+How does the purchase amount vary based on the Review Rating?
+This analysis shows the Average Purchase Amount (USD) for each Review Rating. According to the analysis:
+Transactions with a review rating of 2.5 have an average purchase amount of $62.29.
+Transactions with a review rating of 3.0 have an average purchase amount of $60.73.
+Transactions with a review rating of 5.0 have the highest average purchase amount, which is $64.35.
+

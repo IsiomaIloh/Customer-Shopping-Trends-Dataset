@@ -1,0 +1,13 @@
+2. Correlation between Age, Gender, and Purchase Amount:
+- Use scatter plots or box plots to visualize the relationship between age, gender, and purchase amount.
+- Calculate correlation coefficients (e.g., Pearson correlation
+coefficient) to quantify the strength and direction of the relationship
+between variables.
+- Use statistical tests (e.g., t-test or ANOVA) to determine if there
+are significant differences in purchase amount between different age
+groups and genders.
+
+3. Differences in Shopping Behavior between Male and Female Customers:
+- Compare purchase amounts between male and female customers using box plots or violin plots.
+- Conduct hypothesis tests (e.g., t-test or Mann-Whitney U test) to determine if there are significant differences in shopping behavior between male and female customers.
+- Explore additional variables such as product categories or shopping frequency to further analyze differences in shopping behavior.
